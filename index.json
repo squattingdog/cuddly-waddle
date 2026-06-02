@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "id": "meditate-10",
+      "url": "https://github.com/squattingdog/cuddly-waddle/blob/main/simple-meditate.json"
+    },
+    {
+      "id": "Bible-reading",
+      "url": "https://github.com/squattingdog/cuddly-waddle/blob/main/simple-Bibile-reading.json"
+    },
+    {
+      "id": "carnivore-day",
+      "url": "https://github.com/squattingdog/cuddly-waddle/blob/main/simple-carnivore-day.json"
+    },
+    {
+      "id": "BRS",
+      "url": "https://github.com/squattingdog/cuddly-waddle/blob/main/timed-sequence-battle-ready-strength"
+    },
+    {
+      "id": "bed-by-10",
+      "url": "https://github.com/squattingdog/cuddly-waddle/blob/main/simple-sleep.json"
+    }
+  ]
+}
