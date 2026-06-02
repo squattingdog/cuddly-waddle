@@ -1,0 +1,16 @@
+{
+  "id": "carnivore-day",
+  "name": "Carnivore Day",
+  "description": "Remain carnivore for the entire day.",
+  "kind": "simple",
+  "completionType": "manual",
+  "allowPause": false,
+
+  "schedule": {
+    "type": "daily",
+    "time": "20:00"
+  },
+
+  "createdAt": "2026-06-01T00:00:00Z",
+  "updatedAt": "2026-06-01T00:00:00Z"
+}

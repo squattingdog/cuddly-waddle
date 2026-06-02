@@ -1,0 +1,16 @@
+{
+  "id": "bible-reading",
+  "name": "Bible Reading",
+  "description": "Read assigned Bible passage.",
+  "kind": "simple",
+  "completionType": "manual",
+  "allowPause": true,
+
+  "schedule": {
+    "type": "daily",
+    "time": "06:15"
+  },
+
+  "createdAt": "2026-06-01T00:00:00Z",
+  "updatedAt": "2026-06-01T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "meditate-10",
+  "name": "Meditate",
+  "description": "Morning meditation.",
+  "kind": "simple",
+  "completionType": "manual",
+  "allowPause": true,
+
+  "schedule": {
+    "type": "daily",
+    "time": "06:00"
+  },
+
+  "createdAt": "2026-06-01T00:00:00Z",
+  "updatedAt": "2026-06-01T00:00:00Z"
+}

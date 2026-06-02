@@ -1,0 +1,16 @@
+{
+  "id": "bed-by-10",
+  "name": "In Bed By 10 PM",
+  "description": "Be in bed before 10 PM.",
+  "kind": "simple",
+  "completionType": "manual",
+  "allowPause": false,
+
+  "schedule": {
+    "type": "daily",
+    "time": "21:30"
+  },
+
+  "createdAt": "2026-06-01T00:00:00Z",
+  "updatedAt": "2026-06-01T00:00:00Z"
+}

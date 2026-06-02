@@ -1,0 +1,129 @@
+{
+  "id": "BRS",
+  "name": "Battle Ready Strength",
+  "description": "Timed exercise sequence.",
+  "kind": "timed_sequence",
+  "getReadySeconds": 15,
+  "warningSeconds": 3,
+  "completionType": "manual",
+  "segments": [
+    {
+      "id": "sit-ups-1",
+      "name": "Sit-ups",
+      "durationSeconds": 15,
+      "targetReps": 3,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "pushups-1",
+      "name": "Pushups",
+      "durationSeconds": 12,
+      "targetReps": 6,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "squats-1",
+      "name": "Squats",
+      "durationSeconds": 15,
+      "targetReps": 9,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "burpees-1",
+      "name": "Burpees",
+      "durationSeconds": 36,
+      "targetReps": 12,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "pushups-2",
+      "name": "Pushups",
+      "durationSeconds": 12,
+      "targetReps": 3,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "squats",
+      "name": "Squats",
+      "durationSeconds": 13,
+      "targetReps": 6,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "burpees-2",
+      "name": "Burpees",
+      "durationSeconds": 27,
+      "targetReps": 9,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "sit-ups-2",
+      "name": "Sit-ups",
+      "durationSeconds": 27,
+      "targetReps": 12,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "squats-3",
+      "name": "Squats",
+      "durationSeconds": 13,
+      "targetReps": 3,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "burpees-3",
+      "name": "Burpees",
+      "durationSeconds": 18,
+      "targetReps": 6,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "sit-ups-3",
+      "name": "Sit-ups",
+      "durationSeconds": 20,
+      "targetReps": 9,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "pushups-3",
+      "name": "Pushups",
+      "durationSeconds": 18,
+      "targetReps": 12,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "burpees-4",
+      "name": "Burpees",
+      "durationSeconds": 18,
+      "targetReps": 3,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "sit-ups-4",
+      "name": "Sit-ups",
+      "durationSeconds": 15,
+      "targetReps": 6,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "pushups-4",
+      "name": "Pushups",
+      "durationSeconds": 12,
+      "targetReps": 9,
+      "restAfterSeconds": 30
+    },
+    {
+      "id": "squats-4",
+      "name": "Squats",
+      "durationSeconds": 20,
+      "targetReps": 12,
+      "restAfterSeconds": 30
+    }
+  ],
+  "schedule": {
+    "type": "daily",
+    "time": "06:30"
+  },
+  "createdAt": "2026-06-01T00:00:00Z",
+  "updatedAt": "2026-06-01T00:00:00Z"
+}
